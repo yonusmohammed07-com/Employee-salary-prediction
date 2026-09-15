@@ -1,0 +1,6 @@
+{
+  "name": "Employee Salary Prediction",
+  "description": "Frontend-only machine learning application to predict employee salaries, analyze salary factors, compare regression models, and generate comprehensive reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
